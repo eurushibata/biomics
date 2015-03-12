@@ -1,8 +1,0 @@
-Package: biomics
-Title: biologically integrating OMICS data
-Description: integrate data from TCGA, ENCODE and ROADMAP.
-Version: 0.1
-Date: 2014-09-04
-Author: Emerson Urushibata
-Maintainer: Emerson Urushibata <urushibata.emerson@gmail.com>
-License: GPL-2
